@@ -9,10 +9,16 @@
 </p>
 
 <p align="center">
- <a target="_blank" href=https://linktr.ee/NeerajHazarika>
+ <a target="_blank" href=https://github.com/blueedgetechno>
   <img src=https://img.shields.io/github/followers/NeerajHazarika?label=follow%20me&style=social />
   &nbsp;
 </a>
+  
+  <a target="_blank" href=https://linktr.ee/NeerajHazarika>
+  <img src=https://github.com/NeerajHazarika/blueedgetechno/blob/patch-1/img/download.svg width=20 />
+  &nbsp;
+</a>
+  
 </p>
 
 <hr>
