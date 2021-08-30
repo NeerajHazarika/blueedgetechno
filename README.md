@@ -1,7 +1,7 @@
 <h3 align="center">Hi, Homo sapiens 👋</h3>
 
 <br>
-<h3 align="center"> ⭐ If you like 3d puzzle games, do <a href=https://blueedge.me/unescape target="_blank" >subscribe</a> to the game, Unescape, I'm working on. ⭐</h3>
+<h3 align="center"> ⭐ Welcome to my open source contribution world.⭐</h3>
 <br>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
  <a target="_blank" href=https://github.com/blueedgetechno>
-  <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
+  <img src=https://img.shields.io/github/followers/NeerajHazarika?label=follow%20me&style=social />
   &nbsp;
 </a>
 
@@ -44,13 +44,8 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg alt=sass width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg alt=express width="30" height="30"/>
+<img src=https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg alt=cpp width="30" height="30"/>
+<img src=https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg alt=c width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
@@ -58,8 +53,8 @@
 <br><br>
 
 <p align="center">
-
-<img width="500" src="https://metrics.lecoq.io/blueedgetechno" alt="Github Metrics">
+  
+![Metrics](https://metrics.lecoq.io/NeerajHazarika?template=classic&lines=1&repositories=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&notable.repositories=true&repositories.featured=NeerajHazarika.github.io&config.timezone=Asia%2FCalcutta)
   
 <br>
 
@@ -67,11 +62,11 @@
 
 <br>
 
-|![](https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=NeerajHazarika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajHazarika&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=blueedgetechno&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=NeerajHazarika&theme=redical)
 
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blueedgetechno" alt="blueedge"/> </p>  </p>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=NeerajHazarika" alt="blueedge"/> </p>  </p>
 <br>
