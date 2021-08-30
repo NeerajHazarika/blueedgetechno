@@ -9,28 +9,8 @@
 </p>
 
 <p align="center">
- <a target="_blank" href=https://github.com/blueedgetechno>
+ <a target="_blank" href=https://linktr.ee/NeerajHazarika>
   <img src=https://img.shields.io/github/followers/NeerajHazarika?label=follow%20me&style=social />
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://codeforces.com/profile/NeerajHazarika>
-  <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://twitter.com/hazarika_neeraj>
-  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=mailto:neerajprataphazarika@gmail.com>
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://neerajhazarika.github.io/ >
-  <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
   &nbsp;
 </a>
 </p>
