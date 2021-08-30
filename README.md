@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif"/>
+  <img src="https://github.com/NeerajHazarika/blueedgetechno/blob/patch-1/img/Taekook___Oneshots%20(1).gif" width="900"/>
 </p>
 
 <p align="center">
